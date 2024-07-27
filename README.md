@@ -1,6 +1,6 @@
 - 👋 ¡Hola! Soy @Roy-Coronado
 - 👀 Estoy intersado en el desarrollo web parte backend y desarrollo de escritorio
-- 🌱 Actualmente estoy aprendiendo html5, css, javaScript basico.
+- 🌱 Actualmente estoy aprendiendo HTML5, CSS3, JavaScript basico.
 - 💞️ Estoy buscando colaborar en proyectos visionarios.
 - 📫 Como ponerse en contacto conmigo == null;
 - 😄 Pronombre: The Coder
